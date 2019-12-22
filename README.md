@@ -6,7 +6,7 @@ OA 1-5 required for grade E. OA 1-5 + EA1 - grade D ... OA 1-5 + EA 1-4 - grade 
 
 ## Focus in the assignments (uppgifter)
 
-Obligatoric Assignments:
+### Obligatoric Assignments:
 
 ### OA1
 1. Basic programming: manage loops, conditions and arrays, and standard input and output.
@@ -35,7 +35,7 @@ Obligatoric Assignments:
 3. Algorithms: algorithms related to a sequence of elements; iterating through a sequence; memory efficiency and time efficiency.
 4. Exceptions: handling an exceptional situation in a method.
 
-## Extra Assignments:
+### Extra Assignments:
 
 ### EA1
 1. Basic programming: logic and arrayss; testing a method.
