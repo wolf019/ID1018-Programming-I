@@ -1,6 +1,7 @@
 # ID1018-Programming-I-Assignments
 
-LAB1  - The student demonstrates creativity and programming skills by completing a sufficient number of tasks.
+      LAB1
+      - The student demonstrates creativity and programming skills by completing a sufficient number of tasks.
 
       - Programming Assignments, 4,5 credits, grading: A, B, C, D, E, FX, F 
       
