@@ -56,5 +56,9 @@
 * Data structures: a sequence of objects; type independent data structures.
 * Algorithms: type independent algorithms; iterating through a collection of elements.
 
+## Acknowledgments
 
+* All assignments is written in JAVA 1.8
+* I used eclipse as my programming program
+* All obligatoric and extra assignments were completed in time 
 
