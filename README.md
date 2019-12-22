@@ -1,10 +1,9 @@
 # ID1018-Programming-I-Assignments
 
       LAB1
-      - The student demonstrates creativity and programming skills by completing a sufficient number of tasks.
-
-      - Programming Assignments, 4,5 credits, grading: A, B, C, D, E, FX, F 
       
+      - The student demonstrates creativity and programming skills by completing a sufficient number of tasks.
+      - Programming Assignments, 4,5 credits, grading: A, B, C, D, E, FX, F 
       - OA 1-5 required for grade E. OA 1-5 + EA1 - grade D ... OA 1-5 + EA 1-4 - grade A
 
 Focus in the assignments (uppgifter)
